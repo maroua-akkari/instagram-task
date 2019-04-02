@@ -1,0 +1,99 @@
+main {
+  font-family: helvetica;
+  font-size: 15px;
+}
+
+.navbar {
+  position:fixed;
+  bottom: 5px;
+  width: 100%;
+  color: blue;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.navbar li {
+  display: inline-block;
+  font-weight: bold;
+  padding: 3px;
+  margin-right: 20px;
+}
+
+.copyright {
+  color: grey;
+  text-align: right;
+  margin-left: 200px;
+}
+
+
+.phone {
+  float: left;
+  padding-left: 15%;
+}
+
+.login {
+  float: right;
+  padding-right: 3%;
+  text-align: center;
+  border: solid grey 1px;
+  margin-right: 100px;
+  margin-bottom: 3px;
+}
+
+.login li {
+  margin: 7px;
+  text-align: center;
+}
+
+.app-store {
+  display: inline-block;
+  padding: 1px;
+}
+
+
+.app-login {
+  float: right;
+  padding-right: 3%;
+  text-align: center;
+  margin-right: 100px;
+}
+
+.t-c {
+  font-weight: bold;
+}
+
+
+.log-in-link {
+  color: blue;
+}
+
+.form {
+  border: solid grey 1px;
+  padding: 4px;
+  margin: 5px;
+  color: grey;
+  text-align: left;
+}
+
+.move {
+  padding-right: 105px;
+  padding-left: 105px;
+}
+
+.blue-button {
+  border: solid blue 1px;
+  padding: 7px;
+  color: white;
+  background-color: blue;
+  border-radius: 5px;
+  text-align: center;
+  margin:auto;
+}
+
+
+.app {
+  padding-bottom: 10px;
+}
